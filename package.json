@@ -49,5 +49,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ui-router/react-hybrid.git"
+  },
+  "publishConfig": {
+    "registry": "https://artifactory.bigid-integrations.net/artifactory/api/npm/NPM-Private/"
   }
 }
