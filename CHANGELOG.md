@@ -1,3 +1,6 @@
+## 1.0.6 (2022-12-07)
+[Compare `uirouter-react-hybrid-18` versions 1.0.5 and 1.0.6](https://github.com/ui-router/react-hybrid/compare/1.0.5...1.0.6)
+
 ## 1.0.5 (2022-02-28)
 [Compare `@uirouter/react-hybrid` versions 1.0.4 and 1.0.5](https://github.com/ui-router/react-hybrid/compare/1.0.4...1.0.5)
 
